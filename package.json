@@ -1,0 +1,23 @@
+{
+  "name": "projeto-gama-academy-livros",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moysesth/projeto-gama-academy-livros.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moysesth/projeto-gama-academy-livros/issues"
+  },
+  "homepage": "https://github.com/moysesth/projeto-gama-academy-livros#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
